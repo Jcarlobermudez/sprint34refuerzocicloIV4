@@ -42,7 +42,7 @@ ClienteModel
 {
 "nombre":"pacho",
 "apellido":"Pinzon",
-"telefono":"2021-12-03",
+"telefono":"3202120345",
 "puntos":10,
 "address":{"ciudad":"Monteria, "departamento":"Cordoba", "codigoPostal":"2020202"},
 "productos":[{"nombre":"lavadora","cantidad":1,"price":250000},{"nombre":"plancha","cantidad":2,"price":90000}]
